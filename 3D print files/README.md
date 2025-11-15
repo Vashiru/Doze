@@ -1,4 +1,4 @@
-Protective_cover (FDM print).stl:
+Protective_cover_(FDM_print).stl:
 
 Print settings:
 - Filament: esun TPE 83A (black)
@@ -11,7 +11,7 @@ Print settings:
 
 ----------------------------------------------------------------------------------------
 
-Top_Housing (FDM print).stl:
+Top_Housing_(FDM_print).stl:
 
 Notes:
 - Model has flattened buttons for easier printing with no supports.
@@ -26,7 +26,7 @@ Print settings:
 
 ----------------------------------------------------------------------------------------
 
-Top_Housing (resin print).stl
+Top_Housing_(resin_print).stl
 
 Notes: 
 - Model has rounded buttons as the original injection molded housing.
@@ -39,7 +39,7 @@ Print settings:
   
 ----------------------------------------------------------------------------------------
 
-Bottom_Housing (FDM and resin print).stl
+Bottom_Housing_(FDM_and_resin_print).stl
 
 Notes: 
 - Some manual grinding after printing may be necessary for better fit.
