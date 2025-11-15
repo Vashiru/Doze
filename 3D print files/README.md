@@ -35,7 +35,7 @@ Notes:
 
 Print settings:
 - Resin: Sunlu Nylon-like resin or Elegoo ABS-like resin with recommended settings  
-- Supports: Yes, inner (invisible) surface points at print bed and is conencted to supports
+- Supports: Yes, inner (invisible) surface points at the print bed and is connected to supports
   
 ----------------------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Print settings FDM:
 - Filament: PLA
 - Nozzle diameter: 0.4 mm
 - Layer height: 0.2 mm  
-- Supports: Yes, only needed for sinked screw holes while outer lower surface lies on the print ped
+- Supports: Yes, inner (invisible) surface points at the print bed and is connected to supports
 
 Print settings resin:
 - Resin: Sunlu Nylon-like resin or Elegoo ABS-like resin with recommended settings 
