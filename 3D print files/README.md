@@ -11,7 +11,7 @@ Print settings:
 
 ----------------------------------------------------------------------------------------
 
-Top_Housing_(FDM_print).stl:
+Top_Case_(FDM_print).stl:
 
 Notes:
 - Model has flattened buttons for easier printing with no supports.
@@ -26,7 +26,7 @@ Print settings:
 
 ----------------------------------------------------------------------------------------
 
-Top_Housing_(resin_print).stl
+Top_Case_(resin_print).stl
 
 Notes: 
 - Model has rounded buttons as the original injection molded housing.
@@ -39,7 +39,7 @@ Print settings:
   
 ----------------------------------------------------------------------------------------
 
-Bottom_Housing_(FDM_and_resin_print).stl
+Bottom_Case_(FDM_and_resin_print).stl
 
 Notes: 
 - Some manual grinding after printing may be necessary for better fit.
