@@ -15,7 +15,7 @@ Top_Case_(FDM_print).stl:
 
 Notes:
 - Model has flattened buttons for easier printing with no supports.
-- Use 4 pcs. of M2x10 screws to combine top and button housing. Alternatively, you can try to apply glue.
+- Use 4 pcs. of M2x10 screws to combine top and button case. Alternatively, you can try to apply glue.
 - Some manual grinding after printing may be necessary for better fit.
 
 Print settings:
@@ -30,7 +30,7 @@ Top_Case_(resin_print).stl
 
 Notes: 
 - Model has rounded buttons as the original injection molded housing.
-- Use 4 pcs. of M2x10 screws to combine top and button housing. Alternatively, you can try to apply glue.
+- Use 4 pcs. of M2x10 screws to combine top and button case. Alternatively, you can try to apply glue.
 - Some manual grinding after printing may be necessary for better fit.
 
 Print settings:
